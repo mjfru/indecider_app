@@ -1,4 +1,4 @@
-# <In/>Decider
+# &lt;In/&gt;
 This application was done to fulfill graduation requirements at Coding Dojo.
 Built in Java Spring Boot, it's hooked up to a MySQL database and utilizes custom CSS and Bootstrap for styling.
 This application allows users to create custom lists in various categories, have full CRUD abilities therein, and have something from those lists randomly selected.
