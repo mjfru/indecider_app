@@ -1,0 +1,156 @@
+@charset "UTF-8";
+
+.header {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	margin-top: 10px;
+	margin-bottom: -20px;
+}
+
+#edit-header {
+	margin-bottom: 5px;
+}
+
+hr { 
+  border: 2px solid black;
+} 
+
+h1 {
+	font-family: 'Nova Square', sans-serif;
+	font-size: 50px;
+	color: #01be60;
+}
+
+h1 span {
+	font-family: 'VT323', monospace;
+	font-size: 60px;
+	font-weight: bold;
+	transition: color 4s;
+	color: black;
+}
+
+h1 span:hover {
+	color: white;
+	cursor: help;
+}
+
+#user, #edit-title {
+	color:#01be60;
+}
+
+h2 {
+	font-family: 'Nova Square', sans-serif;
+	font-size: 40px;
+}
+
+h3 {
+	font-family: 'Ranga', cursive;
+	font-size: 36px;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+.errors {
+	color: crimson;
+	font-family: monospace;
+}
+
+.page-container {
+	margin: 0px auto;
+	margin-top: 20px;
+	width: 80%;
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.form-container {
+	width: 30%;
+	padding: 5px;
+}
+
+.form-container label {
+	width: 45%;
+	margin-left: 5%;
+	font-family: 'Ranga', cursive;
+	font-size: 28px;	
+}
+
+.form-container input, select {
+	width: 40%;
+	margin-bottom: 10px;
+	margin-right: 5%;
+}
+
+select {
+	text-align: center;
+}
+
+.radio-section {
+	display: flex;
+	align-items: center;
+}
+
+.radio-buttons {
+	display: flex;
+	justify-content: space-around;
+	width: 40%;
+	align-items: center;
+}
+
+input[type="radio"] {
+    transform: scale(1.5);
+}
+
+.radio-buttons label {
+	margin-right: 5px;
+}
+
+#book-label {
+	margin-right: 10px;
+}
+
+#edit-form {
+	border: 6px solid silver;
+	padding: 15px;
+	width: 40%;
+	color: white;
+	background-color: black;
+}
+
+.list {
+	width: 40%;
+	padding: 5px;
+}
+
+
+th {
+	font-family: 'Ranga', cursive;
+	font-size: 26px;
+}
+
+.item-name {
+	font-family: 'Nova Square', sans-serif;
+	font-size: 20px;
+}
+
+#add-btn, #pick-btn {
+	display: flex;
+	justify-content: center;
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+
+.user-actions {
+	display: flex;
+}
+
+.btn-sm {
+	margin: 4px;
+}
+
+#descriptions {
+	display: flex;
+	align-items: center;
+	margin-bottom: 20px;
+}

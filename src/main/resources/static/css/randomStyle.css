@@ -1,0 +1,91 @@
+@charset "UTF-8";
+
+.header {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	margin-top: 10px;
+	margin-bottom: -20px;
+}
+
+
+h1 {
+	font-family: 'Nova Square', sans-serif;
+	font-size: 50px;
+	color: #01be60;
+}
+
+h1 span {
+	font-family: 'VT323', monospace;
+	font-size: 60px;
+	font-weight: bold;
+	transition: color 4s;
+	color: black;
+}
+
+h1 span:hover {
+	color: white;
+	cursor: help;
+}
+h2 {
+	font-family: 'Nova Square', sans-serif;
+	font-size: 40px;
+}
+
+h3 {
+	font-family: 'Nova Square', sans-serif;
+}
+
+hr {
+	border: 2px solid black;
+}
+
+.page-container {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+
+.selection {
+    width: 20%;
+    text-align: center;
+    border: 8px solid black;
+    border-radius: 2%;
+    background-color: white;
+    color: white;
+    padding: 10px;
+    font-family: 'Ranga', cursive;
+    font-size: 28px;
+    transition: width 3s, background-color 8s, color 10s;
+}
+
+
+.selection:hover {
+    width: 30%;
+    background-color: black;
+    color:#01be60;
+}
+
+
+.selection:mouseout {
+    width: 20%;
+    background-color: white;
+}
+
+.selection span {
+	font-family: 'Nova Square', sans-serif;
+	font-weight: bold;
+	color: white;
+}
+
+#random-name {
+	text-align: center;
+}
+
+#random-desc {
+	text-align: left;
+}
+
+#random-notes {
+	text-align: right;
+}
