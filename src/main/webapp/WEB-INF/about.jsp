@@ -27,7 +27,7 @@
 			<p>This app was inspired by another website I've frequented in the past, the <a href="https://andrew.hedges.name/experiments/random/pickone.html" target="_blank">'Pick a Thing Generator'</a> by Andrew Hedges.</p>
 			<p>Future goals for this project include: additional language support, categories, sorting options, and themes.</p>
 			<p>Created by MJF in December of 2023.</p>
-			<p>Made in loving memory of Jim, my Dad, who doubtlessly would've used this anytime he would be posed with a question with multiple options.</p>
+			<p>Made in loving memory of Jim, my Dad, who doubtlessly would've used this to simplify his own decision-making process.</p>
 		</div>
 	</div>
 </body>
