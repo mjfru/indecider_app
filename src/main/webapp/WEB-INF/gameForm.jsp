@@ -43,7 +43,7 @@
 				<div>
 					<form:label path="gamePlatform">Platform: </form:label>
 					<form:select path="gamePlatform" items="${platforms}"/>
-					<form:errors path="gamePlatform" class="gamePlatform"/>
+					<form:errors path="gamePlatform" class="errors"/>
 				</div>
 				
 				<div class="radio-section">
