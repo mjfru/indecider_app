@@ -15,7 +15,7 @@
 	<div class="header">
 		<h1><span>&lt;In/&gt;</span>Decider</h1>
 		<h2>Your Randomly Selected Show Is...</h2>
-		<a href="/dashboard" class="btn btn-dark">Back to Dashboard</a>
+		<a href="/dashboard" class="btn btn-secondary">Back to Dashboard</a>
 	</div>
 	<hr>
    	<div class="page-container">
