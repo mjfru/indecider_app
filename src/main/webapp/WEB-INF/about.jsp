@@ -20,9 +20,9 @@
 	<div class="page-container" id="about-container">
 		<div class="content" id="about-content">
 			<p>&lt;In/&gt;Decider is an app that was made to help anyone needing a quick decision.</p>
-			<p>To use it, simply log in, click the category you wish to choose from, and begin building a list of items you're trying to choose from or routinely find yourself indecisive about. You can also view, edit, or delete items on these lists (excluding the random category).</p>
+			<p>To use it, log in, select the category you wish to choose from, and begin building a list of items you're trying to choose from or routinely find yourself indecisive about. You can also view, edit, or delete items on these lists (excluding the random category).</p>
 			<p>The application will randomly select something from that list after clicking the 'Choose!' button.</p>
-			<p>Parts of the app are purposely designed to make you stick with whatever decision has been made, such as only being able to return to the dashboard after a selection.</p>
+			<p>Parts of the app are purposely designed to make you commit to whatever decision has been made, such as only being able to return to the dashboard after revealing a selection.</p>
 			<br>
 			<p>This app was inspired by another website I've frequented in the past, the <a href="https://andrew.hedges.name/experiments/random/pickone.html" target="_blank">'Pick a Thing Generator'</a> by Andrew Hedges.</p>
 			<p>Future goals for this project include: additional language support, categories, sorting options, and themes.</p>
