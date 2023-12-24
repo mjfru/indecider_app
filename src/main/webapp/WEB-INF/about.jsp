@@ -20,7 +20,7 @@
 	<div class="page-container" id="about-container">
 		<div class="content" id="about-content">
 			<p>&lt;In/&gt;Decider is an app that was made to help anyone needing a quick decision.</p>
-			<p>To use it, log in, select the category you wish to choose from, and begin building a list of items you're trying to choose from or routinely find yourself indecisive about. You can also view, edit, or delete items on these lists (excluding the random category).</p>
+			<p>To use it, log in, select the category, and begin building a list of items from which to choose or about which you routinely find yourself indecisive. You can also view, edit, or delete items on these lists (excluding the random category).</p>
 			<p>The application will randomly select something from that list after clicking the 'Choose!' button.</p>
 			<p>Parts of the app are purposely designed to make you commit to whatever decision has been made, such as only being able to return to the dashboard after revealing a selection.</p>
 			<br>
