@@ -68,7 +68,7 @@
 			
 			<div class="grid-item" id="random">
 				<h3>Random</h3>
-				<h5>Because not everything belongs in a category.<br/>Need to pick something quickly?<br/></h5>
+				<h5>Not everything belongs in a category!<br/>Need to pick something quickly?<br/></h5>
 				<h5>Let's pick...something!</h5>
 				<a href="/random" class="btn btn-success">My Random List</a>
 			</div>
